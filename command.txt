@@ -1,0 +1,6 @@
+python -m venv venv - install virtual Environment
+source venv/script/activate - Activate Virtual Environment 
+
+pip install opencv-python - install opencv-python depency/library/pkg
+
+python code.py Run the program
