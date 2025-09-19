@@ -6,7 +6,7 @@ import os
 
 #path to your image file
 
-image_path = "img/"
+image_path = "img/WhatsApp.jpg"
 
 
 # Load the image
