@@ -6,7 +6,8 @@ import os
 
 #path to your image file
 
-image_path = "img/img.jpg" 
+image_path = "img/"
+
 
 # Load the image
 image = cv2.imread(image_path)
